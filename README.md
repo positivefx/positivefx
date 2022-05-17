@@ -6,7 +6,7 @@
 
 ---
 
-👀 I’m interested in become a jack of all trades in different javascript framworks and libraries.  
+👀 I’m interested in become a jack of all trades in different javascript frameworks and libraries.  
 
 🌱 I’m currently learning **Python and React Native**
 
