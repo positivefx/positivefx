@@ -8,12 +8,12 @@
 
 👀 I’m interested in become a jack of all trades in different javascript frameworks and libraries.  
 
-🌱 I’m currently learning **Python and React Native**
+🌱 I’m currently learning **React Native and Typescript**
 
 📫 You can reach me on linkedin &nbsp; [![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephanie-yeong/)
            
 ---
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
@@ -37,5 +37,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
+### My Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=positivefx)](https://git.io/streak-stats)
 
 
