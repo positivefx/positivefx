@@ -40,8 +40,3 @@
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-
-### My Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=positivefx)](https://git.io/streak-stats)
-
-
