@@ -8,7 +8,7 @@
 
 👀 I’m interested in become a jack of all trades in different javascript frameworks and libraries.  
 
-🌱 I’m currently learning **React Native and Typescript**
+🌱 I’m currently learning **Next.js and Typescript**
 
 📫 You can reach me on linkedin &nbsp; [![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephanie-yeong/)
            
